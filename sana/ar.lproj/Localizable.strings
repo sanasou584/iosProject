@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  sana
+
+  Created by Tekup-mac-4 on 6/11/2026.
+  
+*/
+"login" = "تسجيل الدخول";
+"register" = "إنشاء حساب";
+"google_login" = "المتابعة باستخدام Google";
